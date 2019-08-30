@@ -25,3 +25,5 @@ Allow the requested permissions on your device as Project64 needs to be able to 
 ### License
 Project64 is licensed under the
 [GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
+[![](https://codescene.io/projects/5467/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5467/jobs/latest-successful/results)
